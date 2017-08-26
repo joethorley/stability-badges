@@ -34,7 +34,7 @@ Backward incompatible changes will be restricted to [major releases](http://r-pk
 ### Frozen
 ![stability-frozen](https://img.shields.io/badge/stability-frozen-blue.svg)
 
-Changes will be restricted to (patches)[http://r-pkgs.had.co.nz/release.html#release-version].
+Changes will be restricted to [patches](http://r-pkgs.had.co.nz/release.html#release-version).
 
 ```markdown
 [![stability-frozen](https://img.shields.io/badge/stability-frozen-blue.svg)](https://github.com/joethorley/stability-badges#frozen)
