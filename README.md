@@ -31,13 +31,13 @@ Backward incompatible changes will be restricted to [major releases](http://r-pk
 [![stability-stable](https://img.shields.io/badge/stability-stable-green.svg)](https://github.com/joethorley/stability-badges#stable)
 ```
 
-### Frozen
-![stability-frozen](https://img.shields.io/badge/stability-frozen-blue.svg)
+### Locked
+![stability-locked](https://img.shields.io/badge/stability-locked-blue.svg)
 
 Changes will be restricted to [patches](http://r-pkgs.had.co.nz/release.html#release-version).
 
 ```markdown
-[![stability-frozen](https://img.shields.io/badge/stability-frozen-blue.svg)](https://github.com/joethorley/stability-badges#frozen)
+[![stability-locked](https://img.shields.io/badge/stability-locked-blue.svg)](https://github.com/joethorley/stability-badges#locked)
 ```
 
 ### Deprecated
