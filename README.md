@@ -51,4 +51,4 @@ This package is not maintained and should not be used anymore.
 
 ## Credits
 
-Basically https://github.com/orangemug/stability-badges adapted for R forked from https://github.com/emersion/stability-badges.
+Basically https://github.com/orangemug/stability-badges adapted for R packages forked from https://github.com/emersion/stability-badges.
