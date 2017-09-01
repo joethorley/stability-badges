@@ -51,4 +51,8 @@ This package is not maintained and should not be used anymore.
 
 ## Credits
 
-Basically from https://github.com/orangemug/stability-badges and then forked from https://github.com/emersion/stability-badges and adapted for [R packages](http://r-pkgs.had.co.nz).
+Basically from https://github.com/orangemug/stability-badges and then forked from https://github.com/emersion/stability-badges.
+
+## Information
+
+For more information see [Releasing a package](http://r-pkgs.had.co.nz/release.html) in R Packages by Hadley Wickham.
